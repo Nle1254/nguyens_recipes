@@ -1,0 +1,13 @@
+.next
+node_modules
+coverage
+build
+dist
+*.lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+public
+.husky
+playwright-report
+test-results
